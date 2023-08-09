@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EIT.GraphQL.Test02": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7093",
+      "launchBrowser": false
+    }
+  }
+}
